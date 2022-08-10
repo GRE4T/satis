@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:GRE4T/ab-inbev-maz-notification-lib.git",
-                    "reference": "33e6d44f32427a5566527570a26e31de141d59d0"
+                    "reference": "63caf8d61d76b5b84e6a0ca5945ffb3948314e15"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/GRE4T/ab-inbev-maz-notification-lib/zipball/33e6d44f32427a5566527570a26e31de141d59d0",
-                    "reference": "33e6d44f32427a5566527570a26e31de141d59d0",
+                    "url": "https://api.github.com/repos/GRE4T/ab-inbev-maz-notification-lib/zipball/63caf8d61d76b5b84e6a0ca5945ffb3948314e15",
+                    "reference": "63caf8d61d76b5b84e6a0ca5945ffb3948314e15",
                     "shasum": ""
                 },
                 "require": {
-                    "guzzlehttp/guzzle": "^6.3",
+                    "guzzlehttp/guzzle": ">=6.3",
                     "php": ">=7"
                 },
-                "time": "2022-08-08T19:39:56+00:00",
+                "time": "2022-08-10T17:11:47+00:00",
                 "default-branch": true,
                 "type": "library",
                 "extra": {
