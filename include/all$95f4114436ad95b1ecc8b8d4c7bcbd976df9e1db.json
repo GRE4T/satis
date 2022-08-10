@@ -1,0 +1,46 @@
+{
+    "packages": {
+        "ab-inbev-maz/notifications-ms": {
+            "dev-master": {
+                "name": "ab-inbev-maz/notifications-ms",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:GRE4T/ab-inbev-maz-notification-lib.git",
+                    "reference": "33e6d44f32427a5566527570a26e31de141d59d0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/GRE4T/ab-inbev-maz-notification-lib/zipball/33e6d44f32427a5566527570a26e31de141d59d0",
+                    "reference": "33e6d44f32427a5566527570a26e31de141d59d0",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.3",
+                    "php": ">=7"
+                },
+                "time": "2022-08-08T19:39:56+00:00",
+                "default-branch": true,
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "AbInbevMaz\\NotificationMS\\": "src/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Ab Inbev Maz",
+                        "homepage": ""
+                    }
+                ],
+                "description": "Notifications Microservice"
+            }
+        }
+    }
+}
